@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 public class BruchTest {
 
     @Test
-    @DisplayName("Bruch ausrechnen testen")
+    @DisplayName("soll Ergebnis ausgeben nach ausrechnen eines Bruches")
     public void testAusrechnen() {
         Bruch bruch = new Bruch(1, 2);
 
