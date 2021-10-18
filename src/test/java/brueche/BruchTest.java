@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class BruchTest {
 
     @Test
-    @DisplayName("dies ist der erste Test, mir fällt jetzt keine sinnvolle Beschreibung ein")
+    @DisplayName("hier wird getested, ob Gleitkommazahlen berechnet werden können")
     void testAusrechnen(){
 
         Bruch bruch = new Bruch(5, 2);
