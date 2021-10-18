@@ -86,8 +86,10 @@ public class Bruch implements Comparable<Bruch> {
      *
      * @return Wert des Bruchs als Gleitkommazahl (double)
      */
-    public double ausrechnen() {
-        return getZaehler() / getNenner();
+    public double ausrechnen()
+    {
+        double h = getZaehler();
+        return h / getNenner();
     }
 
     /**
