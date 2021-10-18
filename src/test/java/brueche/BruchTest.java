@@ -12,8 +12,7 @@ public class BruchTest {
     void testAusrechnen(){
 
         Bruch bruch = new Bruch(5, 2);
-
-        var actual = bruch.ausrechnen() ;
+        double actual = bruch.ausrechnen() ;
         var expected = 2.5;
 
         assertEquals(expected, actual);
