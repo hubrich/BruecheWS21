@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="brueche.BruchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-18T08:25:37" hostname="DESKTOP-NGLGH1V" time="0.024">
+  <properties/>
+  <testcase name="Bruch ausrechnen testen" classname="brueche.BruchTest" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
